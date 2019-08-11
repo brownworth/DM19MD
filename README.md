@@ -16,7 +16,7 @@ Over the course of this class, we hope to cover basics in Regular Expressions  a
 ### Utilities:
 [Mockaroo](https://mockaroo.com) A really good utility to generate mock datasets.
 
-[]()
+[GitIgnore.io](https://www.gitignore.io) Quickly create .gitignore files
 
 ---
 
