@@ -6,6 +6,9 @@ Over the course of this class, we hope to cover basics in Regular Expressions  a
 
 ---
 
+### Slides:
+[Presentation Slides](https://docs.google.com/presentation/d/1NsazAOlENHT7V_nbvQUO8edVrgNfFNLQBxl6DUXBrDo/edit?usp=sharing)
+
 ### Software:
 [Anaconda](https://www.anaconda.com/distribution/) An easy-to-install distribution for Python 
 
@@ -28,3 +31,6 @@ Over the course of this class, we hope to cover basics in Regular Expressions  a
 [RegexOne](https://regexone.com)
 
 [Regular Expression Game](http://play.inginf.units.it/#/)
+
+### Misc. Resources:
+[Diacritic Characters in Hex](https://pjb.com.au/comp/diacritics.html)
